@@ -3,6 +3,16 @@
 ## Overview
 OrderHUB is a project designed to manage orders, customers, and products in an e-commerce system. It provides endpoints for creating and retrieving orders, managing customers, and handling products.
 
+## Technologies Used
+The OrderHUB project utilizes the following technologies:
+
+* **Java:**             The backend of the application is developed using Java programming language.
+* **Spring Boot:**      Spring Boot framework is used to create stand-alone, production-grade Spring-based applications.
+* **Spring Data JPA:**  Spring Data JPA provides an easy and efficient way to interact with the database using JPA (Java Persistence API) annotations.
+* **MySQL:**            MySQL relational database management system is used to store and manage data.
+* **Postman:**          Postman is used for testing API endpoints during development.
+
+
 ### Entity Structure
 Entities represent the core data structures of the application. In the OrderHUB project, entities include:
 1. **Customer:** Represents individuals who place orders. It contains attributes like id (auto-generated), name, and email.  
