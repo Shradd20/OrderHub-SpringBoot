@@ -12,6 +12,28 @@ The OrderHUB project utilizes the following technologies:
 * **MySQL:**            MySQL relational database management system is used to store and manage data.
 * **Postman:**          Postman is used for testing API endpoints during development.
 
+# Project Structure
+* src/main/java: Contains the Java source code files.
+    * com.example.orderhub.entity: Contains entity classes representing database tables.
+    * com.example.orderhub.repository: Contains repository interfaces for database operations.
+    * com.example.orderhub.service: Contains service classes implementing business logic.
+    * com.example.orderhub.controller: Contains controller classes handling HTTP requests and responses.
+    * com.example.orderhub.dto: Contains DTO (Data Transfer Object) classes used for data transfer between layers.
+* src/main/resources: Contains application properties files, Hibernate configuration files, and static resources.
+* src/test/java: Contains unit tests and integration tests.
+* pom.xml: Maven project configuration file.
+  
+# Getting Started
+
+To run the OrderHUB application locally, follow these steps:
+
+1. Clone the project repository.
+2. Configure the database connection in the application.properties file.
+3. Build the project using Maven.
+4. Run the application using Spring Boot. 
+
+
+# Working 
 
 ### Entity Structure
 Entities represent the core data structures of the application. In the OrderHUB project, entities include:
