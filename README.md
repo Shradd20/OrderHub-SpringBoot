@@ -70,8 +70,6 @@ DTOs are objects used to transfer data between different layers of an applicatio
 
 ### OrderHUB is a comprehensive project for managing orders, customers, and products in an e-commerce system. It provides a robust architecture with clear separation of concerns and easy-to-use endpoints for interacting with the system.
 
-#### For more details, refer to the source code and documentation provided with the project.
-
 
 # ScreenShots:
 
@@ -112,6 +110,15 @@ DTOs are objects used to transfer data between different layers of an applicatio
   ![Screenshot (29)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/19fe9464-f79b-40cb-ad3b-69865e0f62cf)
 
   *(It tells that for for example: orderID=3 product with productId 1 is purshaed and simliraly for orderId=1 two products are purshaed which are productId 1 and productId 2)*
+
+* **In order to known a customer suppose with customer_id as 1 has placed how many orders and in each order how many products he purshaed we do:**
+
+  ![Screenshot (30)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/c332aa69-5b31-4e9d-ae1f-3b932589e113)
+
+  *(Response tells that customer with id=1 has placed two orders for which orderid are orderid=1 and orderid=3. For orderId=1 he has purschased two products that is productId=1,productid=2 and in orderId=3 he has purshaed one product i.e. productID=1.)*
+
+
+#### For more details, refer to the source code and documentation provided with the project.
 
 
 
