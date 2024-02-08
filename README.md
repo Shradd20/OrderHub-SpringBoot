@@ -71,3 +71,29 @@ DTOs are objects used to transfer data between different layers of an applicatio
 ### OrderHUB is a comprehensive project for managing orders, customers, and products in an e-commerce system. It provides a robust architecture with clear separation of concerns and easy-to-use endpoints for interacting with the system.
 
 #### For more details, refer to the source code and documentation provided with the project.
+
+
+# ScreenShots:
+
+* **POST REQUEST to add new Customer in CustomerTable in ShoppingDatabase:** 
+  
+  ![Screenshot (15)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/0bb19107-1109-476e-ad30-f1d955c7e9e5)
+
+* **CustomerTable updates to**
+
+  ![Screenshot (17)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/b959bfea-7d9d-4599-802b-96e3cf6b9417)
+
+* **POST REQUEST to add Products in ProductTable:**
+
+   ![Screenshot (18)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/b94a76b9-5b61-4330-aa35-ce56a94bc9fa)
+
+* **ProductTable updates to:**
+  ![Screenshot (20)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/c2f174da-26e6-408d-b04b-934963fbfcab)
+
+* **POST REQUEST to place new Order for Customer with Id=1:**
+  
+
+
+
+
+ 
