@@ -1,4 +1,4 @@
-# OrderHub-SpringBoot
+![Screenshot (28)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/ed64dc1c-96f8-48be-a451-02782e9ffaad)# OrderHub-SpringBoot
 
 ## Overview
 OrderHUB is a project designed to manage orders, customers, and products in an e-commerce system. It provides endpoints for creating and retrieving orders, managing customers, and handling products.
@@ -79,7 +79,7 @@ DTOs are objects used to transfer data between different layers of an applicatio
   
   ![Screenshot (15)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/0bb19107-1109-476e-ad30-f1d955c7e9e5)
 
-* **CustomerTable updates to**
+* **CustomerTable updates to:**
 
   ![Screenshot (17)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/b959bfea-7d9d-4599-802b-96e3cf6b9417)
 
@@ -88,9 +88,19 @@ DTOs are objects used to transfer data between different layers of an applicatio
    ![Screenshot (18)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/b94a76b9-5b61-4330-aa35-ce56a94bc9fa)
 
 * **ProductTable updates to:**
+  
   ![Screenshot (20)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/c2f174da-26e6-408d-b04b-934963fbfcab)
 
 * **POST REQUEST to place new Order for Customer with Id=1:**
+
+  ![Screenshot (26)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/18276dd3-4680-4b8b-98f7-0f846a444abc)
+
+* **OrderTable updates to:**
+
+  ![Screenshot (28)](https://github.com/Shradd20/OrderHub-SpringBoot/assets/68496510/0226ee92-933e-43e6-a5f8-71095a3f9225)
+
+  *(Which tells that customer with id 1 has placed two orders as Order_id=1 and Order_id=3)*
+
   
 
 
